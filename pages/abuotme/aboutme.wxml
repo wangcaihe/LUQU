@@ -1,2 +1,4 @@
 <!--pages/abuotme/aboutme.wxml-->
-<text>pages/abuotme/aboutme.wxml</text>
+<view class="abotueme" style="background:#ccc">
+    <text>这个是我的介绍页面哦</text>
+</view>

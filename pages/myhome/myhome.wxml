@@ -1,2 +1,6 @@
 <!--pages/myhome/myhome.wxml-->
-<text>pages/myhome/myhome.wxml</text>
+<view class="myhome">
+   <scroll-view>
+   </scroll-view>
+</view>
+
